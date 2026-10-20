@@ -9,7 +9,7 @@ Hands-on repository for daily DevOps engineering and Site Reliability Engineerin
 
 ## 🛠️ Technology Stack
 - **Infrastructure & Cloud**: AWS, Terraform
-- **Configuration & GitOps**: Ansible, ArgoCD, Git
+- **CI/CD & GitOps**: Jenkins, ArgoCD, Ansible, Git
 - **Containers & Orchestration**: Docker, Kubernetes
 - **Observability**: Prometheus, Grafana, ELK Stack
 - **Automation & Scripting**: Python, Shell (Bash)

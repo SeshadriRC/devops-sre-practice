@@ -14,6 +14,7 @@ This repository tracks daily hands-on practice, scenarios, break-fix challenges,
 | **Docker** | `Not Started` | Multi-stage builds, rootless containers, security scanning, minimal base images (distroless) |
 | **AWS** | `Not Started` | VPC networking, ECS Fargate, IAM policies, cost controls, CloudWatch integration |
 | **ArgoCD** | `Not Started` | GitOps workflows, sync strategies (Blue/Green, Canary with Rollouts), drift self-healing |
+| **Jenkins** | `Not Started` | Declarative pipelines, shared libraries, ephemeral agents (Docker/K8s), credential security |
 | **ELK** | `Not Started` | Logstash pipeline tuning, index lifecycle management (ILM), Elasticsearch query performance |
 | **Prometheus** | `Not Started` | PromQL deep dive, recording rules, alert rules, custom exporters, scrape optimization |
 | **Grafana** | `Not Started` | Dashboard design for 4 Golden Signals, alerting integration, multi-datasource panels |
@@ -28,6 +29,7 @@ This repository tracks daily hands-on practice, scenarios, break-fix challenges,
 | Day | Date | Primary Tech | Lab / Challenge Title | Lab Path | Notes / Key Learnings | Status |
 |:---:|:---:|:---:|:---|:---|:---|:---:|
 | Day 1 | 2026-10-20 | Shell Scripting | Defensive SRE Automation (Traps, flock, pipefail) | [`labs/day-01-shell-sre/`](labs/day-01-shell-sre/) | Refactored deadlocking watchdog: `flock`, `trap EXIT`, bounded backoff, guarded `${VAR:?}` | `Completed` |
+| Day 2 | - | TBD | *Next hands-on practical session* | `labs/day-02/` | - | `Planned` |
 
 ---
 
