@@ -19,7 +19,7 @@ This repository tracks daily hands-on practice, scenarios, break-fix challenges,
 | **Grafana** | `Not Started` | Dashboard design for 4 Golden Signals, alerting integration, multi-datasource panels |
 | **Git** | `Not Started` | Advanced rebase, cherry-pick, conflict resolution, bisect for bug hunting, branch strategies |
 | **Python** | `Not Started` | SRE automation scripts, boto3 AWS SDK, Prometheus client, CLI tools, API integrations |
-| **Shell Scripting** | `Not Started` | Robust Bash (`set -euo pipefail`), log parsing, health checks, signal traps (`SIGTERM/SIGINT`) |
+| **Shell Scripting** | `In Progress` | Robust Bash (`set -euo pipefail`), log parsing, health checks, signal traps (`SIGTERM/SIGINT`) |
 
 ---
 
@@ -27,7 +27,7 @@ This repository tracks daily hands-on practice, scenarios, break-fix challenges,
 
 | Day | Date | Primary Tech | Lab / Challenge Title | Lab Path | Notes / Key Learnings | Status |
 |:---:|:---:|:---:|:---|:---|:---|:---:|
-| Day 1 | - | - | *Pending kickoff* | `labs/day-01/` | - | `Planned` |
+| Day 1 | 2026-10-20 | Shell Scripting | Defensive SRE Automation (Traps, flock, pipefail) | [`labs/day-01-shell-sre/`](labs/day-01-shell-sre/) | Break-fix refactor of deadlocking cron watchdog | `In Progress` |
 
 ---
 
