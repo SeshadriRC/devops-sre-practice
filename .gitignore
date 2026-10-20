@@ -1,0 +1,46 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.example.tfvars
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Secrets & SSH Keys
+*.pem
+*.key
+*.pub
+id_rsa*
+*.p12
+*.pfx
+.env
+.env.*
+secrets.yaml
+secrets.yml
+
+# Docker / Kubernetes temporary logs
+*.log
+*.tar
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
